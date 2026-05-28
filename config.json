@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerrpdate",
+        "uuid": 2920351,
+        "checksum": "hvqpm"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
